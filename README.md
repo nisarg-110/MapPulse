@@ -1,5 +1,7 @@
 # MapPulse — Player Journey Visualization Tool
 
+**Live Demo:** https://map-pulse-tan.vercel.app/
+
 A browser-based tool for replaying and analyzing player journeys from battle-royale matches. Built with Next.js 14 + TypeScript + Tailwind CSS + HTML5 Canvas.
 
 ---
